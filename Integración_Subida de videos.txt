@@ -1,0 +1,7 @@
+1. Instalar la libreria multer:
+
+npm install express multer @types/express @types/multer
+
+2. Configurar servidor en server.ts
+
+3. 
